@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-05T02:22:44Z" name="SMOKE TEST SUITE" finished-at="2023-02-05T02:22:56Z" duration-ms="11643">
+    <groups>
+    </groups>
+    <test started-at="2023-02-05T02:22:44Z" name="SMOTE TESTS" finished-at="2023-02-05T02:22:56Z" duration-ms="11643">
+      <class name="com.academy.techcenture.GoogleTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.academy.techcenture.GoogleTest@41294f8]" started-at="2023-02-05T02:22:44Z" name="beforeTest" finished-at="2023-02-05T02:22:45Z" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUpBefore()[pri:0, instance:com.academy.techcenture.GoogleTest@41294f8]" started-at="2023-02-05T02:22:45Z" name="setUpBefore" finished-at="2023-02-05T02:22:48Z" duration-ms="3196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBefore -->
+        <test-method signature="googleSearchTest()[pri:0, instance:com.academy.techcenture.GoogleTest@41294f8]" started-at="2023-02-05T02:22:48Z" name="googleSearchTest" finished-at="2023-02-05T02:22:55Z" duration-ms="7486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+        <test-method is-config="true" signature="setUpAfter()[pri:0, instance:com.academy.techcenture.GoogleTest@41294f8]" started-at="2023-02-05T02:22:55Z" name="setUpAfter" finished-at="2023-02-05T02:22:56Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAfter -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.academy.techcenture.GoogleTest@41294f8]" started-at="2023-02-05T02:22:56Z" name="afterTest" finished-at="2023-02-05T02:22:56Z" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.academy.techcenture.GoogleTest -->
+    </test> <!-- SMOTE TESTS -->
+  </suite> <!-- SMOKE TEST SUITE -->
+</testng-results>
